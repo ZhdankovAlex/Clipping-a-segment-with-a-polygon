@@ -1,0 +1,9 @@
+C:\Users\jdank\source\repos\laba5\laba5\bin\Debug\laba5.exe.config
+C:\Users\jdank\source\repos\laba5\laba5\bin\Debug\laba5.exe
+C:\Users\jdank\source\repos\laba5\laba5\bin\Debug\laba5.pdb
+C:\Users\jdank\source\repos\laba5\laba5\obj\Debug\laba5.csprojAssemblyReference.cache
+C:\Users\jdank\source\repos\laba5\laba5\obj\Debug\laba5.Properties.Resources.resources
+C:\Users\jdank\source\repos\laba5\laba5\obj\Debug\laba5.csproj.GenerateResource.cache
+C:\Users\jdank\source\repos\laba5\laba5\obj\Debug\laba5.exe
+C:\Users\jdank\source\repos\laba5\laba5\obj\Debug\laba5.pdb
+C:\Users\jdank\source\repos\laba5\laba5\obj\Debug\laba5.Form1.resources
